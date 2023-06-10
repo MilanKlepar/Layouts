@@ -1,0 +1,22 @@
+.container {
+    border: solid rgb(25, 126, 208) 1.5px;
+    margin: 10px;
+    width: fit-content;
+    height: fit-content;
+    display:flex;
+    padding: 10px;
+    justify-content: space-between;
+}
+.lboxes {
+    width: 40px;
+    height: 40px;
+    background-color:rgb(60, 134, 195);
+    /* border: solid black; */
+    margin:10px;
+}
+#con2 .lboxes {
+    background-color:rgb(116, 52, 173);
+}
+#con2 {
+    background-color: rgb(218, 99, 75)
+}
